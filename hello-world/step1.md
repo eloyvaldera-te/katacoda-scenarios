@@ -1,4 +1,4 @@
-This is your first step.
+Lo primero que se va a hacer es actualizar el repositorio de paquetes e instalar el paquete puppet.
 
 ## Task
 

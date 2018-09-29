@@ -1,12 +1,16 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Puppet Fundamentals",
+  "description": "En este curso aprenderás los fundamentos básicos de Puppet",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Paso 1 - Instalando el entorno",
       "text": "step1.md"
+    },
+    {
+      "title": "Paso 2 - Probando la instalación y los comandos de puppet",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",
