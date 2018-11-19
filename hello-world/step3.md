@@ -18,9 +18,9 @@ Como has podido commprobar no ha fallado al lanzar el comando, esto es porque ha
 
 `puppet apply  -e "user{'Eloy': ensure=>present, password=>sTr0nG}"`{{execute}}
 
-También se podría lanzar el comando puppet para que no compruebe todo el recurso y sólo verificar uno concreto. Con el siguiente comando cambiaremos el home del usuario y dejamos sin compmrobar el resto de atributos.
+También se podría lanzar el comando puppet para que no compruebe todo el recurso y sólo verificar uno concreto. Con el siguiente comando cambiaremos el home del usuario y dejamos sin comprobar el resto de atributos.
 
-`puppet apply  -e "user{'Eloy': home=>/home/Eloy}"`{{execute}}
+`puppet apply  -e "user{'Eloy': home=>'/home/Eloy'}"`{{execute}}
 
 En este caso puppet no ha comprobado nada relativo a la contraseña, lo único que ha hecho es comprobar que su home es el correcto.
 
