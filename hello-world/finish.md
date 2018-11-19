@@ -1,1 +1,3 @@
-You've completed your first Katacoda scenario!
+Gracias por acabar este curso!
+
+Espero que sea de utilidad.
