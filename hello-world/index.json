@@ -11,6 +11,14 @@
     {
       "title": "Paso 2 - Probando la instalación y los comandos de puppet",
       "text": "step2.md"
+    },
+    {
+      "title": "Paso 3 - Lanzando los primero comandos de puppet",
+      "text": "step3.md"
+    },
+    {
+      "title": "Paso 4 - Jugando con fichero .pp",
+      "text": "step4.md"
     }],
     "intro": {
       "text": "intro.md",
